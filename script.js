@@ -7,6 +7,6 @@ document.getElementById("projetos")
 
 function alertProjeto(){
 
-alert("Esse projeto está hospedado no meu GitHub!")
+alert("Esse projeto está hospedado no meu GitHub! @EliasGabrielCF")
 
 }
